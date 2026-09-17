@@ -195,3 +195,15 @@ released as stable yet.
 
 The app is limited to 1 CPU and 1 GiB of memory. Raise `limits` in
 `template.yaml` if you need more.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
